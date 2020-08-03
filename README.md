@@ -20,3 +20,5 @@
 <br />
 
 <img align="left" alt="jackmennie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jackmennie&show_icons=true&hide_border=true&count_private=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackmennie)](https://github.com/anuraghazra/github-readme-stats)
